@@ -1,0 +1,18 @@
+<kitaplar>
+<kitap id="bil101"> 
+<yazar>Ahmet Mehmet</yazar>
+<baslik>VeriYapilari ve Algoritmalar</baslik>
+<tur>Bilisim</tur>
+<basimTarihi>2006</basimTarihi>
+<fiyat>30</fiyat>
+</kitap>
+
+<kitap id="bil102"> 
+<yazar>Ali Veli</yazar>
+<baslik>Python</baslik>
+<tur>Bilisim</tur>
+<basimTarihi>2018</basimTarihi>
+<fiyat>40</fiyat>
+</kitap>
+
+</kitaplar>
